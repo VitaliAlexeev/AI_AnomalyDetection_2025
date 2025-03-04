@@ -13,3 +13,5 @@ nltk
 gensim
 spacy
 pyLDAvis
+scikit-learn
+yellowbrick
