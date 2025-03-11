@@ -11,7 +11,10 @@ Wikipedia-API
 contractions
 nltk
 gensim
-spacy
+spacy==3.7.2
+spacy-transformers
 pyLDAvis
 scikit-learn
 yellowbrick
+transformers
+pyspellchecker
