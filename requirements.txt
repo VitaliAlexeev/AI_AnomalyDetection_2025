@@ -18,3 +18,4 @@ scikit-learn
 yellowbrick
 transformers
 pyspellchecker
+shap
